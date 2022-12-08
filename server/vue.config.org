@@ -1,9 +1,0 @@
-// 参考:https://qiita.com/afwan717/items/56648be4a537131b591a
-const { defineConfig } = require('@vue/cli-service')
-module.exports = defineConfig({
-  transpileDependencies: true,
-  devServer: {
-    allowedHosts: ['hogehost','hogehost.foo.local'],
-    compress: true,
-  },
-})
