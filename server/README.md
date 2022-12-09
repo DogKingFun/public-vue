@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# References
+・https://codelikes.com/install-vue-router/
+・https://webpack.js.org/configuration/dev-server/
